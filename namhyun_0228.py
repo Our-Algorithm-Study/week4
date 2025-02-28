@@ -50,3 +50,8 @@ for i in range(n):
         
 print(len(heap))
 
+## 반례 (heap에 튜플 전체를 넣는 경우 틀리는 이유)
+3
+2 3
+3 5
+1 4
